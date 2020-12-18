@@ -17,7 +17,7 @@ const Label = styled.label`
   width: 20%;
   min-width: 70px;
   padding: 11px 0;
-  color: #c4f0ff;
+  color: #000;
   overflow: hidden;
   font-size: 16px;
   text-overflow: ellipsis;
@@ -34,7 +34,7 @@ const Input = styled.input`
   animation: 1ms void-animation-out;
 
   &::placeholder {
-    color: #87bbfd;
+    color: #8fbffd;
   }
 `;
 

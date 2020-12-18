@@ -9,8 +9,8 @@ const Input = styled.input`
   text-align: center;
   outline: none;
   background: transparent;
-  border: 1px solid #819efc;
-  color: #fff;
+  border: 1px solid #8fbffd;
+  color: #000;
   height: 40px;
   user-select: none;
 `;
@@ -19,15 +19,15 @@ const Button = styled.span`
   display: inline-block;
   width: 30px;
   line-height: 38px;
-  color: #fff;
+  color: #000;
   height: 40px;
   text-align: center;
   font-weight: bold;
   cursor: pointer;
-  background-color: #f6a4eb;
+  background-color: #8fbffd;
   user-select: none;
   box-shadow: 0 6px 9px rgba(50, 50, 93, 0.06), 0 2px 5px rgba(0, 0, 0, 0.08),
-    inset 0 1px 0 #ffb9f6;
+    inset 0 1px 0 #8fbffd;
 `;
 
 const DecrementButton = styled(Button)`

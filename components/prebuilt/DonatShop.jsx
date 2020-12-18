@@ -5,11 +5,12 @@ import Donation from "./Donation";
 
 const Shop = styled.div`
   padding: 10px 20px 40px 20px;
+  color: #000;
 `;
 
 const ShopName = styled.h1`
   font-size: 18px;
-  color: #fff;
+  color: #000;
   font-style: normal;
   font-variant: normal;
   font-weight: 400;
